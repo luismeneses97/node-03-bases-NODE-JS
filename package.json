@@ -1,0 +1,19 @@
+{
+  "name": "03-bases",
+  "version": "0.0.1",
+  "description": "aplicacion de linea de comandos para multiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismeneses97/node-03-bases-NODE-JS.git"
+  },
+  "author": "Luis Meneses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismeneses97/node-03-bases-NODE-JS/issues"
+  },
+  "homepage": "https://github.com/luismeneses97/node-03-bases-NODE-JS#readme"
+}
