@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luismeneses97/node-03-bases-NODE-JS/issues"
   },
-  "homepage": "https://github.com/luismeneses97/node-03-bases-NODE-JS#readme"
+  "homepage": "https://github.com/luismeneses97/node-03-bases-NODE-JS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
