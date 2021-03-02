@@ -1,1 +1,5 @@
-console.log('Hola guapo');
+const {multiplicar} = require("./multiplicador");
+
+const base = 9;
+
+multiplicar(base);
